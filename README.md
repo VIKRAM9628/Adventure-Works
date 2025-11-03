@@ -70,10 +70,13 @@ To address this challenge, the higher management decided to hire a Business Anal
 - 🧱 Data Modelling – Designed relationships between multiple tables, ensuring accurate calculations and efficient data analysis.
 - 📂 File Format - .pbix, .xlsx / .csv, .png.
 
-## Screenshots / Demos:
-Executive Dashboard: https://github.com/VIKRAM9628/Adventure-Works/blob/main/Product%20Detail%20Report.png
-Product Report: https://github.com/VIKRAM9628/Adventure-Works/blob/main/Executive%20Dashboard.png
-Customer report: https://github.com/VIKRAM9628/Adventure-Works/blob/main/Customer%20%20Detail%20Report.png
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+
+![Exceutive Dashboard](images/dashboard.png)
+
+![Products detail Dashboard](images/dashboard.png)
+
+![Customers detail Dashboard](images/dashboard.png)
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
