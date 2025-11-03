@@ -28,22 +28,22 @@ To address this challenge, the higher management decided to hire a Business Anal
 ---
 <h2><a class="anchor" id="key dashboard"></a>Key Dashboard</h2>
 
-1. 🏢 Executive Dashboard
+### 1. 🏢 Executive Dashboard
 - Provides a high-level overview of business performance.
 - Displays key performance indicators (KPIs) for quick decision-making.
 - Helps management track overall sales, profit, and return rates.
 
-2. 🗺️ Interactive Map Dashboard
+### . 🗺️ Interactive Map Dashboard
 - Visualizes sales and return patterns across different regions.
 - Allows users to explore data geographically.
 - Identifies top-performing and underperforming areas.
 
-3. 📦 Product Detail Dashboard
+### 3. 📦 Product Detail Dashboard
 - Highlights product performance and return trends.
 - Helps identify low-performing products and reasons for returns.
 - Supports data-driven inventory and product strategy decisions.
 
-4. 👥 Customer Detail Dashboard
+### 4. 👥 Customer Detail Dashboard
 - Provides insights into customer behavior and preferences.
 - Analyzes return reasons and customer satisfaction trends.
 - Helps improve retention and engagement strategies.
