@@ -50,6 +50,7 @@ To address this challenge, the higher management decided to hire a Business Anal
 
 ---
 <h2><a class="anchor" id="insights gain"></a>Insights Gain</h2>
+
 - Generated $24.9M revenue and $10.5M profit with a low 2.2% return rate, indicating strong business performance.
 - Revenue grew steadily (2020–2022), showcasing effective sales strategies.
 - Served 17.4K unique customers with an average revenue per customer of $1,431.
