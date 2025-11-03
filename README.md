@@ -75,6 +75,15 @@ Executive Dashboard: https://github.com/VIKRAM9628/Adventure-Works/blob/main/Pro
 Product Report: https://github.com/VIKRAM9628/Adventure-Works/blob/main/Executive%20Dashboard.png
 Customer report: https://github.com/VIKRAM9628/Adventure-Works/blob/main/Customer%20%20Detail%20Report.png
 
+---
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+**Vikram Singh**  
+Aspiring Business Analyst  
+📧 Email: vikramaditya2323@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vikram9628/)  
+
+
 
 
 
