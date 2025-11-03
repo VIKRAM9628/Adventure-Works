@@ -72,11 +72,11 @@ To address this challenge, the higher management decided to hire a Business Anal
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-![Exceutive Dashboard](images/dashboard.png)
+![Exceutive Dashboard]([images/dashboard.png](https://github.com/VIKRAM9628/Adventure-Works/blob/main/Executive%20Dashboard.png))
 
-![Products detail Dashboard](images/dashboard.png)
+![Products detail Dashboard]([images/dashboard.png](https://github.com/VIKRAM9628/Adventure-Works/blob/main/Product%20Detail%20Report.png))
 
-![Customers detail Dashboard](images/dashboard.png)
+![Customers detail Dashboard]([images/dashboard.png](https://github.com/VIKRAM9628/Adventure-Works/blob/main/Customer%20%20Detail%20Report.png))
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
