@@ -33,7 +33,7 @@ To address this challenge, the higher management decided to hire a Business Anal
 - Displays key performance indicators (KPIs) for quick decision-making.
 - Helps management track overall sales, profit, and return rates.
 
-### . 🗺️ Interactive Map Dashboard
+### 2. 🗺️ Interactive Map Dashboard
 - Visualizes sales and return patterns across different regions.
 - Allows users to explore data geographically.
 - Identifies top-performing and underperforming areas.
@@ -58,12 +58,15 @@ Customer count and engagement rose significantly post mid-2021.
 Road Tire Tube achieved 213 monthly orders, generating $1,668 revenue and $1,044 profit.
 Implemented a 0.10% price adjustment simulation to analyze profit sensitivity and support data-driven decisions.
 
-## 🛠️ Tools & Technologies
-📊 Power BI Desktop – For building interactive dashboards and visualizations.
-🧮 DAX (Data Analysis Expressions) – To create measures, calculated columns, and advanced calculations.
-🔄 Power Query – For transforming, merging, and shaping raw data before loading into Power BI.
-🧱 Data Modelling – Designed relationships between multiple tables, ensuring accurate calculations and efficient data analysis.
-📂 File Format - .pbix, .xlsx / .csv, .png.
+---
+
+<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+
+- 📊 Power BI Desktop – For building interactive dashboards and visualizations.
+- 🧮 DAX (Data Analysis Expressions) – To create measures, calculated columns, and advanced calculations.
+- 🔄 Power Query – For transforming, merging, and shaping raw data before loading into Power BI.
+- 🧱 Data Modelling – Designed relationships between multiple tables, ensuring accurate calculations and efficient data analysis.
+- 📂 File Format - .pbix, .xlsx / .csv, .png.
 
 ## Screenshots / Demos:
 Executive Dashboard: https://github.com/VIKRAM9628/Adventure-Works/blob/main/Product%20Detail%20Report.png
