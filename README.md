@@ -20,10 +20,10 @@ To address this challenge, the higher management decided to hire a Business Anal
 ---
 <h2><a class="anchor" id="features"></a>Features</h2>
 
--✅ Interactive visuals and filters
--✅ Real-time KPI tracking
--✅ Drill-through functionality for deeper insights
--✅ Clean and professional dashboard design
+- ✅ Interactive visuals and filters
+- ✅ Real-time KPI tracking
+- ✅ Drill-through functionality for deeper insights
+- ✅ Clean and professional dashboard design
 
 ## 🧩 Key Dashboards
 1. 🏢 Executive Dashboard
