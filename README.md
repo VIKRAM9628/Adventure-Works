@@ -10,12 +10,16 @@
 - <a href="#dashboard">Dashboard</a>
 - <a href="#author--contact">Author & Contact</a>
 
-## Purpose:
+---
+<h2><a class="anchor" id="purpose"></a>Overview</h2>
+
 Adventure Work is a leading bike selling company specializing in bikes, accessories, and clothing. In the initial years, the sales were booming. 
 However, after two to three years, a concerning trend was observed — the return rate of bikes and other products started to increase significantly.
 To address this challenge, the higher management decided to hire a Business Analyst. The analyst's primary role is to analyze the sales and return data to generate data-driven insights and recommendations.
 
-## 🚀 Features
+---
+<h2><a class="anchor" id="features"></a>Features</h2>
+
 ✅ Interactive visuals and filters
 ✅ Real-time KPI tracking
 ✅ Drill-through functionality for deeper insights
