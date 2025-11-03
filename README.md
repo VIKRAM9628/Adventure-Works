@@ -25,7 +25,9 @@ To address this challenge, the higher management decided to hire a Business Anal
 - ✅ Drill-through functionality for deeper insights
 - ✅ Clean and professional dashboard design
 
-## 🧩 Key Dashboards
+---
+<h2><a class="anchor" id="key dashboard"></a>Key Dashboard</h2>
+
 1. 🏢 Executive Dashboard
 Provides a high-level overview of business performance.
 Displays key performance indicators (KPIs) for quick decision-making.
