@@ -50,8 +50,9 @@ Implemented a 0.10% price adjustment simulation to analyze profit sensitivity an
 📂 File Format - .pbix, .xlsx / .csv, .png.
 
 # Screenshots / Demos:
-
-
+Executive Dashboard: https://github.com/VIKRAM9628/Adventure-Works/blob/main/Product%20Detail%20Report.png
+Product Report: https://github.com/VIKRAM9628/Adventure-Works/blob/main/Executive%20Dashboard.png
+Customer report: https://github.com/VIKRAM9628/Adventure-Works/blob/main/Customer%20%20Detail%20Report.png
 
 
 
