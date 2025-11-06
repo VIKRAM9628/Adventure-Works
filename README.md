@@ -55,7 +55,7 @@ To address this challenge, the higher management decided to hire a Business Anal
 - Revenue grew steadily (2020–2022), showcasing effective sales strategies.
 - Served 17.4K unique customers with an average revenue per customer of $1,431.
 - Professionals and managers contributed the highest revenue segments.
-- Top customer: Mr. Maurice Shan with $12,408 in revenue with low lwvwl income.
+- Top customer: Mr. Maurice Shan with $12,408 in revenue with low income level.
 - Customer count and engagement rose significantly post mid-2021.
 - Road Tire Tube achieved 213 monthly orders, generating $1,668 revenue and $1,044 profit.
 - Implemented a 0.10% price adjustment simulation to analyze profit sensitivity and support data-driven decisions.
